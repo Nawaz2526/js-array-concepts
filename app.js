@@ -1,19 +1,3 @@
-// let arr = ["nawaz",39,200.4];
-// arr[0]  = "banana"
-// console.log(arr);
-// let start  =  ['january','july','march','augest'];
-// // start[0] = ['july'];
-// // start[1] = ['june'];
-// // console.log(start);
-// // concatenation array add two array 
-// let primary = ["white","green","red",];
-// let secondry = ["yellow","orenge","blue"];
-//  console.log(primary.concat(secondry));   // create new array orengnal array value  primary and secondry are same 
-//  // chahe aese bhi karlo
-//  let allColor = (primary.concat(secondry));
-//  console.log(allColor);
-//  // if agr hum primary bad me secondry pehle likte to secondry ke pehle ate 
-//  console.log(secondry.concat(primary)); 
 
 //ARRAY
 // Array is a special type of variable that store multipule value  in  a single variable 
